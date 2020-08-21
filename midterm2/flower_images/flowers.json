@@ -1,0 +1,59 @@
+{
+	"title": "Flower Images",
+	"description": "Flowers for Lightbox display",
+	"modified": "2020-03-22T20:38:15Z",
+	"items": [
+	    {
+			"title": "Salmon Rose",
+			"thumbnail": "./images/rose_thumbnail.jpg",
+			"media": "./images/rose_large.jpg",
+			"published": "2020-03-22T20:38:15Z",
+			"tags": "flowers,rose"
+	    },
+	    {
+			"title": "Jonquil",
+			"thumbnail": "./images/jonquil_thumbnail.jpg",
+			"media": "./images/jonquil_large.jpg",
+			"published": "2020-03-22T20:38:15Z",
+			"tags": "flowers,jonquil"
+	    },
+	    {
+			"title": "Stargazer Lily",
+			"thumbnail": "./images/lily_thumbnail.jpg",
+			"media": "./images/lily_large.jpg",
+			"published": "2020-03-22T20:38:15Z",
+			"tags": "flowers,lily"
+	    },
+		{
+			"title": "Magnolia",
+			"thumbnail": "./images/magnolia_thumbnail.jpg",
+			"media": "./images/magnolia_large.jpg",
+			"published": "2020-03-22T20:38:15Z",
+			"tags": "flowers,magnolia"
+	    },
+	    {
+			"title": "Sunflower",
+			"thumbnail": "./images/sunflower_thumbnail.jpg",
+			"media": "./images/sunflower_large.jpg",
+			"published": "2020-03-22T20:38:15Z",
+			"tags": "flowers,sunflower"
+	    },
+	    {
+			"title": "Waterlily",
+			"thumbnail": "./images/waterlily_thumbnail.jpg",
+			"media": "./images/waterlily_large.jpg",
+			"published": "2020-03-22T20:38:15Z",
+			"tags": "flowers,waterlily"
+	    },
+	    {
+			"title": "Echinacea",
+			"thumbnail": "./images/echinacea_thumbnail.jpg",
+			"media": "./images/echinacea_large.jpg",
+			"published": "2020-03-22T20:38:15Z",
+			"tags": "flowers,echinacea"
+	    }
+	]
+}
+
+
+	   

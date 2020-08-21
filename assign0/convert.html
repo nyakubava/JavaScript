@@ -1,0 +1,27 @@
+<!-- 
+ CIS 114 OLH 
+ convert.html
+ Assignment # 0
+-->
+
+<head>
+    <title> </title>
+    <script>
+        var fahrenheit = prompt("Enter Fahrenheit temperature: ");
+        fahrenheit = parseFloat(fahrenheit);
+        var celcius = (fahrenheit - 32) * 5 / 9;
+        celcius = parseInt(celcius);
+        alert("Farhrenheit temperature is " + fahrenheit + "\nCelsius temperature is " + celcius);
+    </script>
+</head>
+
+<body>
+    <script>
+        var today = new Date();
+        document.write("<h1>Thanks for using the Temperature Converter</h1>")
+        document.writeln("\nToday is " + today.toDateString());
+        document.write("<br><br>")
+        document.writeln("Programmed by user_name");
+        document.write("<br>")
+    </script>
+</body>
